@@ -21,6 +21,7 @@ Before you begin, ensure you have the following installed on your machine:
 
 ### Install packages
 `npm install`
+`npm install -g prisma`
 
 ### Make migrations
 `npx prisma migrate dev --name init`
